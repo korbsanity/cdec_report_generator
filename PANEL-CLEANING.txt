@@ -1,0 +1,84 @@
+ARMENIA PANEL CLEANING — v0.6.2
+
+1. Open the application and choose Panel Cleaning.
+2. Choose the cleaning round, work date, report date, and coverage range.
+3. Choose a block to zoom in, then inspect the generated table boundaries.
+   Hover over or focus the map, then hold W/A/S/D to pan: up/left/down/right.
+   Report text fields and controls are excluded from keyboard shortcuts.
+4. Use Click, Rectangle or Polygon to select tables. Yellow is temporary.
+   Whole tables selects up to four quarters of one actual table together.
+   Half tables selects pairs of quarters (0.50 table).
+   Quarter tables selects individual 0.25 units; select three for 0.75 table.
+   Fractional row ends retain their actual 0.25/0.50/0.75 weight.
+   Fully enclosed selects only units completely inside the drawn shape.
+   Uncheck it to include units touched by the shape. Click toggles selection;
+   rectangle and polygon add to the selection. Clear selection cancels yellow.
+5. Select the target period. Set as Target commits the yellow tables to that
+   period's target. Blue dashed outlines remain visible after completion.
+6. Mark Completed records the work date. Green progress is limited to the
+   selected round and coverage dates. Target achievement counts only completed
+   tables inside the selected target, within that target period through the
+   report date. Off-target work does not increase target achievement.
+7. For repeat cleaning, use New cleaning round. Earlier rounds stay saved.
+   Marking an already-completed table on another date asks before replacing
+   its date within that round; Undo can restore a mistaken edit.
+8. Fill in report details, before/after photos and signatories on the right.
+9. Export PDF opens browser printing. Choose Save as PDF, A4 landscape,
+   enable background graphics and disable browser headers/footers. Sign-offs
+   appear at the end, after the photo section when photos are supplied.
+10. Export Backup regularly and before changing browser/computer or updating.
+    Import restores backups matching this dataset and calibration.
+
+SOURCE FILES AND VERIFIED COUNTS
+Block 1: block1.kml (original) — 150 rows — 684 tables
+Block 2: blk2(1).kml (latest attached) — 119 usable rows — 684 tables
+Block 3: blk3.zip (7 KML files) — 93 rows — 684 tables
+Block 4: blk4.kml — 85 rows — 502 tables
+Block 5: block5.kml (original) — 52 rows — 319 tables
+TOTAL: 499 rows — 2,873 tables — 11,492 quarter sections
+The geometry independently reproduces all supplied block counts; no total
+is forced by scaling progress weights. Block 2 polygon 16 is empty and is
+excluded. No geometry or table count is fabricated for it.
+
+CORRECTED PHYSICAL TABLE DEFINITION
+Full actual table: 16.335 m reference length
+Half actual table: 8.1675 m reference length
+Quarter actual table: 4.08375 m reference length
+One former full table equals two actual tables.
+One former half table equals one actual table.
+One former quarter equals half an actual table.
+All 17 original trial CSV values are preserved. The accompanying
+calibration-reference.json records the factor of two for the new definition.
+Rows are partitioned along their oriented long axis, rounded to 0.25-table
+increments. Table numbering runs west-to-east, or south-to-north for vertical
+rows. Boundaries are estimates from the traced row ends; check actual table
+alignment before final use. Correct block totals do not independently prove
+every individual boundary. Sources and manifest are bundled for regeneration.
+
+UPDATING FROM v0.6.0
+Export your old backups before updating. This dataset has separate saved panel
+progress because both geometry and the physical table unit changed. Previous
+progress remains preserved on the same browser and address. Export previous
+panel backup downloads it without altering it. Use the matching old package to
+view old backups; they cannot be directly imported into the revised dataset.
+Current backups restore normally. Grass-cutting history remains in its own
+unchanged module and backup format.
+
+SATELLITE
+Internet is needed for Esri imagery. Archive dates refer to release dates, not
+capture dates. If imagery is unavailable, try another release or switch off
+Satellite. Both editors and PDF maps use the same loader. Native imagery
+requests stop at zoom 18; closer view zoom enlarges available pixels. Missing
+tiles use cropped parent tiles from the same selected release. Satellite
+errors have a separate status message from autosave. PDF geometry still
+renders and unresolved tile failures are disclosed.
+
+VALIDATION
+Production build, TypeScript, changed-file lint, 8 panel-data/logic tests,
+5 map-control/imagery tests, 3 existing grass-cutting geometry tests,
+and portable-server asset checks
+passed. Browser interaction and PDF visual checks could not be completed in
+this environment because the browser executable is unavailable. Test both
+map selection and Export PDF locally before final submission. Direct provider
+imagery requests could not be verified from this execution environment; fallback
+was verified with simulated missing tiles through the actual OpenLayers loader.

@@ -1,0 +1,26 @@
+{
+  "fullTableMeters": 16.335,
+  "tableIncrement": 0.25,
+  "blocks": {
+    "1": {
+      "filename": "block1.kml",
+      "actualTables": 684
+    },
+    "2": {
+      "filename": "blk2(1).kml",
+      "actualTables": 684
+    },
+    "3": {
+      "filename": "blk3.zip",
+      "actualTables": 684
+    },
+    "4": {
+      "filename": "blk4.kml",
+      "actualTables": 502
+    },
+    "5": {
+      "filename": "block5.kml",
+      "actualTables": 319
+    }
+  }
+}

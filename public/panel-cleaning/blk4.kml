@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>blk4.kml</name>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>1affffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>1affffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>block 4</name>
+		<snippet></snippet>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<MultiGeometry>
+			<MultiGeometry>
+				<MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.549794711436,15.43593137440879,0 120.5497974706445,15.43589868324702,0 120.5501022194422,15.43589877091015,0 120.5501039374601,15.43593249415553,0 120.549794711436,15.43593137440879,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5485812003708,15.43588295352917,0 120.5485861907661,15.43584479581779,0 120.5501010279935,15.4358487734836,0 120.5501014293649,15.43588357331557,0 120.5485812003708,15.43588295352917,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5485822525557,15.43583439842885,0 120.5485844343455,15.43579527874734,0 120.5500983821854,15.4357943675815,0 120.5500985172848,15.43583549291602,0 120.5485822525557,15.43583439842885,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5487339135248,15.435779410794,0 120.5487344409628,15.43574340043172,0 120.5501007386929,15.43574211667326,0 120.5501011173317,15.43577896386107,0 120.5487339135248,15.435779410794,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5487331080449,15.435728491479,0 120.5487317138724,15.4356934626253,0 120.5501028698999,15.43569168413106,0 120.5501018279142,15.43572743141532,0 120.5487331080449,15.435728491479,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+				<MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.548737537086,15.43567705142748,0 120.5487351228462,15.43564110865069,0 120.5501024535603,15.43563923305418,0 120.5501004628905,15.43567586816029,0 120.548737537086,15.43567705142748,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.548887436031,15.43562877289249,0 120.5488887222421,15.43558948744837,0 120.550100741384,15.43558911018008,0 120.5501019099154,15.43562471691561,0 120.548887436031,15.43562877289249,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5488851420889,15.43557446943043,0 120.5488876049452,15.4355394227531,0 120.5500992125402,15.43553534470771,0 120.5501016554976,15.43557243657164,0 120.5488851420889,15.43557446943043,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5488883135251,15.43552335598248,0 120.5488908786522,15.43548765956321,0 120.5501019783555,15.43548296099627,0 120.5501045023262,15.43551824068953,0 120.5488883135251,15.43552335598248,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5490380408549,15.4354739139861,0 120.5490412980894,15.43543417378697,0 120.5501025759831,15.43543323407538,0 120.5501038735652,15.43546770923642,0 120.5490380408549,15.4354739139861,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5490398171026,15.43542232703095,0 120.5490452842227,15.43538172235605,0 120.550103806136,15.43538029733902,0 120.5501068988717,15.43541537854075,0 120.5490398171026,15.43542232703095,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5491103192633,15.4353724187455,0 120.549111565201,15.43533290830898,0 120.5501003916979,15.4353267465086,0 120.5501016604066,15.43536447660776,0 120.5491103192633,15.4353724187455,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5491109524024,15.4353234092813,0 120.5491109269518,15.43528199839886,0 120.5501011442834,15.4352772855499,0 120.5501045088268,15.43531408869886,0 120.5491109524024,15.4353234092813,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+				<MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5491921957263,15.43526708300642,0 120.549190521504,15.4352299181338,0 120.5501053422293,15.43522308193056,0 120.5501051228439,15.43526109491966,0 120.5491921957263,15.43526708300642,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5492651608182,15.4352141225457,0 120.5492621204774,15.43517765218581,0 120.5501008906548,15.43517390526892,0 120.5501053176648,15.43521177793012,0 120.5492651608182,15.4352141225457,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5492618093588,15.43516566961636,0 120.5492652989527,15.43512583287706,0 120.5501044759851,15.43512155621795,0 120.5501054992124,15.43515831478374,0 120.5492618093588,15.43516566961636,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.549344288464,15.43511124595672,0 120.5493446772837,15.43507291743298,0 120.5501045979981,15.43507061384717,0 120.550104105064,15.43510496678292,0 120.549344288464,15.43511124595672,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5493458570283,15.43505864606387,0 120.5493452563918,15.43502162624136,0 120.550102935044,15.43502031269576,0 120.5501035109159,15.43505438297337,0 120.5493458570283,15.43505864606387,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501167621466,15.43593325941981,0 120.5501156364862,15.43589777384378,0 120.5511762580969,15.43590341392217,0 120.5511781232857,15.43593599197071,0 120.5501167621466,15.43593325941981,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501127671701,15.43588515630332,0 120.5501170924862,15.43584696033962,0 120.5511760953815,15.43585130544382,0 120.5511747974354,15.43588800177798,0 120.5501127671701,15.43588515630332,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501170388177,15.43583229119665,0 120.5501185322629,15.43579607141428,0 120.5511059145535,15.43579914016485,0 120.5511050428179,15.43583412700545,0 120.5501170388177,15.43583229119665,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+				<MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.550117603508,15.43577991656505,0 120.5501162186068,15.4357418337122,0 120.5511047713084,15.43574789727457,0 120.551103627843,15.43578182568347,0 120.550117603508,15.43577991656505,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501186974737,15.43572998266414,0 120.550117933636,15.43569130200988,0 120.5511008988895,15.43569546255114,0 120.5511030193531,15.43573104976532,0 120.5501186974737,15.43572998266414,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501186091954,15.43567781012973,0 120.5501185635187,15.43563937268068,0 120.5511062270695,15.43564624048364,0 120.5511037421179,15.43567916548206,0 120.5501186091954,15.43567781012973,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501171078093,15.43562497356861,0 120.5501159037734,15.43559094109127,0 120.5510257134502,15.43559382972892,0 120.5510266292895,15.43562828582876,0 120.5501171078093,15.43562497356861,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.550115979834,15.43557627821939,0 120.5501161322567,15.43553548876795,0 120.5510299104934,15.43553888234235,0 120.5510279484423,15.43557831915904,0 120.550115979834,15.43557627821939,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501140496762,15.43552286813135,0 120.550116820804,15.4354844546534,0 120.5510273006647,15.4354898300277,0 120.5510282803067,15.43552302686693,0 120.5501140496762,15.43552286813135,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501147027508,15.43547027481398,0 120.5501157348918,15.43543280650224,0 120.5510328280031,15.43543819302393,0 120.5510309557651,15.43547284099826,0 120.5501147027508,15.43547027481398,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+				<MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501145156659,15.43541883112727,0 120.550118926999,15.43538001481799,0 120.5509553579544,15.43538823287984,0 120.5509528886218,15.43542070536255,0 120.5501145156659,15.43541883112727,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501160011223,15.43536781308092,0 120.5501204640833,15.43532606598574,0 120.5509566151099,15.43533378134724,0 120.5509566035457,15.43537003274421,0 120.5501160011223,15.43536781308092,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501210844575,15.43531521808252,0 120.5501179458722,15.43527572529013,0 120.5508766859789,15.43528266700955,0 120.5508790759553,15.4353200141531,0 120.5501210844575,15.43531521808252,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501183595873,15.43526498669561,0 120.5501176826076,15.43522474689053,0 120.5508794377337,15.43523128375995,0 120.5508783385848,15.435269637675,0 120.5501183595873,15.43526498669561,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501163804355,15.43521306744528,0 120.5501165707157,15.43517312728156,0 120.5508760051155,15.4351765340548,0 120.5508782649491,15.43521898226658,0 120.5501163804355,15.43521306744528,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+				<MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.550119369175,15.43516159587417,0 120.5501178587617,15.43512236547188,0 120.5508810609007,15.43513012688303,0 120.5508781588049,15.43516548741299,0 120.550119369175,15.43516159587417,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501181852787,15.43511089240722,0 120.5501195496002,15.43507171070027,0 120.5508795057351,15.43507428488537,0 120.55088066941,15.43511565445668,0 120.5501181852787,15.43511089240722,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5501089967528,15.43505671160649,0 120.5501099038426,15.43502002167003,0 120.5507905100399,15.43502423241606,0 120.5507925019658,15.4350597314732,0 120.5501089967528,15.43505671160649,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5494124436687,15.4350097691955,0 120.5494154983529,15.4349658162975,0 120.5507923739053,15.43497145536777,0 120.5507923731189,15.43501003989189,0 120.5494124436687,15.4350097691955,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<MultiGeometry>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5494385305538,15.43495684955953,0 120.5494355120537,15.43491807938941,0 120.5508093310453,15.43492158547554,0 120.5508085205655,15.43495986220563,0 120.5494385305538,15.43495684955953,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5494967986938,15.43490511180909,0 120.5494947273563,15.43486796671668,0 120.5507934508106,15.43487242273786,0 120.550787972333,15.43490541456731,0 120.5494967986938,15.43490511180909,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5495110536481,15.43485313504791,0 120.5495125667967,15.43481443410429,0 120.5507362321,15.43481919740338,0 120.5507342469364,15.4348572045416,0 120.5495110536481,15.43485313504791,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5495748202175,15.43480046361414,0 120.5495716203707,15.43476221666042,0 120.5507104190318,15.43476648714332,0 120.5507130705055,15.43480202527239,0 120.5495748202175,15.43480046361414,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5495859243389,15.43474859583302,0 120.549586077814,15.43471114904463,0 120.5507314482614,15.43471599597184,0 120.5507295369654,15.43475509191554,0 120.5495859243389,15.43474859583302,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5496467427264,15.43470044049384,0 120.5496466893314,15.43465989418562,0 120.5507137279624,15.43466326762044,0 120.5507155474868,15.43469776625769,0 120.5496467427264,15.43470044049384,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5496495610561,15.43464638884068,0 120.5496508972111,15.43460444545573,0 120.5506435229219,15.43461075979658,0 120.5506444852564,15.43464869000939,0 120.5496495610561,15.43464638884068,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5497241313927,15.4345957712934,0 120.5497237378415,15.43455737999733,0 120.5506434773371,15.43455927172805,0 120.5506435157842,15.43459510759097,0 120.5497241313927,15.4345957712934,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5497238798918,15.43454100400973,0 120.5497238573284,15.43450499593705,0 120.5506453347887,15.43450861671485,0 120.5506433635937,15.4345465981404,0 120.5497238798918,15.43454100400973,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5497996951696,15.4344925925465,0 120.5498005488734,15.43445219198919,0 120.5506431640562,15.43445625180778,0 120.5506431416634,15.43449847083841,0 120.5497996951696,15.4344925925465,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+					<MultiGeometry>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5497994453173,15.4344434443259,0 120.5498017665731,15.43440353833157,0 120.550563448612,15.43440371650684,0 120.5505646576952,15.43444070451247,0 120.5497994453173,15.4344434443259,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.549810338619,15.43438841874425,0 120.5498113799258,15.4343524672361,0 120.5505787257671,15.43435189827725,0 120.5505779450699,15.43438936457657,0 120.549810338619,15.43438841874425,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5498108895856,15.43433910805672,0 120.5498106660895,15.43430129164987,0 120.5505777250274,15.43430176960315,0 120.5505761725767,15.43433606306897,0 120.5498108895856,15.43433910805672,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5498136237798,15.43428891036702,0 120.5498145529925,15.43424900867787,0 120.5505767874396,15.43425204503038,0 120.5505787479053,15.43428698240706,0 120.5498136237798,15.43428891036702,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5499612383144,15.4342374302673,0 120.5499638520454,15.43419882340753,0 120.5504973777393,15.43420150903797,0 120.55049923521,15.43423623673757,0 120.5499612383144,15.4342374302673,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5501184593485,15.43418346913426,0 120.550119875236,15.43414819754057,0 120.5505032139778,15.43414879807409,0 120.550501787914,15.43418562333284,0 120.5501184593485,15.43418346913426,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5502669675836,15.43413533025765,0 120.5502699309373,15.4340957503807,0 120.5504220973944,15.43409489441066,0 120.5504218546538,15.43413458239344,0 120.5502669675836,15.43413533025765,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+					<MultiGeometry>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5481811663574,15.43473840891662,0 120.5481804518069,15.43470269713116,0 120.5483329890178,15.43470088332444,0 120.548334942953,15.43473565760872,0 120.5481811663574,15.43473840891662,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5480279795947,15.4347882852649,0 120.5480293167088,15.43475328986624,0 120.5483299166321,15.43475266635645,0 120.5483320277946,15.43478684796789,0 120.5480279795947,15.4347882852649,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477681913244,15.43483869826829,0 120.5477698427869,15.43480383398436,0 120.5483701459866,15.43480639336394,0 120.5483707760306,15.43483980769078,0 120.5477681913244,15.43483869826829,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</MultiGeometry>
+				<MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5475860026137,15.43489644591353,0 120.54758733992,15.43485670886183,0 120.5488057593449,15.43485524872719,0 120.5488067938781,15.43488985841,0 120.5475860026137,15.43489644591353,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<MultiGeometry>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5473909265219,15.43494804137758,0 120.5473921246902,15.43490915839265,0 120.5487644282296,15.43490982127327,0 120.5487683328328,15.43494459384343,0 120.5473909265219,15.43494804137758,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5481121322232,15.43500026094773,0 120.5481152863388,15.43495986364927,0 120.5487188421416,15.43496391106295,0 120.5487170382423,15.43500149222193,0 120.5481121322232,15.43500026094773,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5471972692712,15.43499845541653,0 120.5471975398228,15.43496066974228,0 120.5481003907129,15.43496122938389,0 120.5481025789794,15.4349996928019,0 120.5471972692712,15.43499845541653,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5469987053142,15.43505103829621,0 120.5470033848034,15.43500942029744,0 120.5479110602631,15.43501269895708,0 120.5479114690213,15.43504957184916,0 120.5469987053142,15.43505103829621,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.547924686414,15.43505152568755,0 120.5479244726363,15.43501452831509,0 120.5487630347806,15.43501653716716,0 120.5487613952248,15.43505384937397,0 120.547924686414,15.43505152568755,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.546813552035,15.43510261880179,0 120.5468178310424,15.43506167248625,0 120.5477207299259,15.43506422257525,0 120.5477192180054,15.43510229570145,0 120.546813552035,15.43510261880179,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477312800381,15.43510355971527,0 120.5477340242487,15.43506513079365,0 120.5487192993773,15.43506689574897,0 120.5487180296086,15.4351042153778,0 120.5477312800381,15.43510355971527,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.546598808934,15.43515726843908,0 120.5466031377891,15.43511473501333,0 120.5476589517873,15.43511678907674,0 120.5476578952408,15.43515295826231,0 120.546598808934,15.43515726843908,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<MultiGeometry>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5476700024048,15.4351569323164,0 120.547671999789,15.43511823796065,0 120.5487386128131,15.43511797153263,0 120.5487369608135,15.43515593878064,0 120.5476700024048,15.4351569323164,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5464351397277,15.43520503847051,0 120.5464404277219,15.43516537585695,0 120.5476477529105,15.43516856867437,0 120.5476502847233,15.43520408762243,0 120.5464351397277,15.43520503847051,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5476606045215,15.43520641960913,0 120.5476614489191,15.43517243910282,0 120.5485683938648,15.43517266175113,0 120.5485663957764,15.43521191097203,0 120.5476606045215,15.43520641960913,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5464338480261,15.43525765192711,0 120.5464398235371,15.43521660916636,0 120.5476494236461,15.43522324981482,0 120.5476492659104,15.43525782664305,0 120.5464338480261,15.43525765192711,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5476636625383,15.43526240418502,0 120.5476623586594,15.43522336818941,0 120.5485716928835,15.43522329991795,0 120.5485716812667,15.43526107921636,0 120.5476636625383,15.43526240418502,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5476570854718,15.43531472460906,0 120.5476565873828,15.43527458729972,0 120.5485706706521,15.43527719192366,0 120.5485695724909,15.43531469683411,0 120.5476570854718,15.43531472460906,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5464337336009,15.43530951925085,0 120.5464384265757,15.43527136793107,0 120.5476506822025,15.43527457335329,0 120.5476484382058,15.43530864076775,0 120.5464337336009,15.43530951925085,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									120.5470900806148,15.43536180695271,0 120.5470895756789,15.4353276366125,0 120.5484633644116,15.43532797450042,0 120.5484621962614,15.43536659555571,0 120.5470900806148,15.43536180695271,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<MultiGeometry>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.547694071839,15.43541680547026,0 120.5476945188874,15.4353782730332,0 120.548464090581,15.4353766828791,0 120.5484663438556,15.43541541957008,0 120.547694071839,15.43541680547026,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477144994845,15.4354654775848,0 120.5477148489319,15.43543018486101,0 120.5483231233634,15.43543088234764,0 120.5483217036146,15.4354697378608,0 120.5477144994845,15.4354654775848,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5478347009619,15.43582695530108,0 120.5478346605838,15.43578904951826,0 120.5479898360774,15.43578992317205,0 120.5479923021686,15.43582787509873,0 120.5478347009619,15.43582695530108,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5478112230047,15.43577919565225,0 120.5478102139447,15.43573829842528,0 120.5479650482004,15.43573903333471,0 120.5479631098065,15.43577886153309,0 120.5478112230047,15.43577919565225,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477868611261,15.43572744765055,0 120.547786882681,15.43568780816484,0 120.5480942618068,15.43568714765551,0 120.5480946703503,15.43572693036105,0 120.5477868611261,15.43572744765055,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477841249805,15.43567213204247,0 120.5477831809086,15.43563465278193,0 120.5480875863928,15.43563584669317,0 120.5480880221881,15.43567343418609,0 120.5477841249805,15.43567213204247,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477739799114,15.43562127143854,0 120.5477709102757,15.43558378529607,0 120.5482262369699,15.4355848246219,0 120.5482257556106,15.4356234398823,0 120.5477739799114,15.43562127143854,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477436887724,15.43556777196615,0 120.5477417428003,15.43552947778178,0 120.5482021785608,15.43553240351617,0 120.5482037996638,15.43557195249709,0 120.5477436887724,15.43556777196615,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										120.5477463966078,15.43551717550706,0 120.5477455519984,15.43547804491396,0 120.548356444372,15.43547995621973,0 120.548351785282,15.43551928265678,0 120.5477463966078,15.43551717550706,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</MultiGeometry>
+			</MultiGeometry>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.548525059713,15.43593754170688,0 120.5485272290077,15.43589465977252,0 120.5497420435131,15.4358936113547,0 120.5497436854046,15.435930747914,0 120.548525059713,15.43593754170688,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.5501161234311,15.43598534726389,0 120.5501170655635,15.43595162004484,0 120.5511782638318,15.43595311032432,0 120.5511782092988,15.43598856971852,0 120.5501161234311,15.43598534726389,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+	</Placemark>
+</Document>
+</kml>
