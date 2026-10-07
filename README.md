@@ -20,16 +20,11 @@ blocks, with table geometry aligned to each traced row.
 - Before/after photos, report details, and final prepared/checked/approved sign-offs.
 
 The geometry reproduces the supplied **2,873 actual tables across 499 usable
-row polygons**: B1 684, B2 684, B3 684, B4 502, and B5 319. It uses the original
-Block 1 and 5 files, `blk2(1).kml` for Block 2, `blk3.zip` for Block 3, and
-`blk4.kml` for Block 4. Block 2 polygon 16 remains empty and is excluded.
+row polygons**: B1 684, B2 684, B3 684, B4 502.
 
 The corrected full-table reference length is **16.335 m**. The former 32.67 m
 unit represents two actual tables. A half table is about 8.1675 m and a quarter
-about 4.08375 m. Completion still uses 0.25, 0.50, 0.75, and 1.00-table increments;
-the selectable geometry is now smaller. All 17 original trial CSV counts are
-preserved and converted by a documented factor of two. Individual boundaries
-remain estimates from the traced row extents; check them against physical tables.
+about 4.08375 m.
 
 Saved panel projects are isolated by dataset identity, including calibration.
 Old panel progress remains in its previous database and can be downloaded using
